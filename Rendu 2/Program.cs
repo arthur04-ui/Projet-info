@@ -33,7 +33,7 @@ namespace Rendu_2
             //            "\nConnaitre la distance entre deux station_____tappez 2" +
             //            "\nConnaitre le temps entre deux stations_______tappez 3" +
             //            "\nAfficher les stations d'une ligne____________tappez 4" +
-            //            "\nSortir du programme__________________________tappez 5" +
+            //            "\nSortir du programme__________________________tappez 5" + tapez 6
             //            "\nRéponse: ");
             //        val = Console.ReadLine();
             //    }
